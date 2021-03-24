@@ -1,16 +1,38 @@
-### Hi there 👋
+Hi，我是 wyj，一个可爱的人，一个纯粹的人，一个没有脱离低级趣味的人
 
-<!--
-**gaoge-jujingyi/gaoge-jujingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------
 
-Here are some ideas to get you started:
+## 构成要素
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 常用头像   | ![](D:\图片\表情包\Snipaste_2021-02-14_19-08-12.png)         |
+| ---------- | ------------------------------------------------------------ |
+| 一句话     | 写代码是热爱，写到世界充满爱！                               |
+| 生日       | 过年后的第三天                                               |
+| 特征       |                                                              |
+| 装备       | 荣耀v20（6+128），matePad10.8（6+128），荣耀pro2020（16+512），万魔蓝牙耳机。 |
+| 工作       | 尤雨溪粉丝                                                   |
+| 动漫爱好者 | 《一人之下》《尸兄》《中国惊奇先生》《通职者》《柯南》《海贼王剧场版系列》 |
+| 小说爱好者 | 《十宗罪》秋风寒系列（阴阳鬼探，遵命女鬼大人）《诛仙》       |
+| 美剧爱好者 | 《硅谷》《良医》                                             |
+| 偶像列表   | [鞠婧祎](http://www.ju-jingyi.com/)                          |
+| 水果杀手   | 香蕉，橙子，橘子                                             |
+| 美食博主   |                                                              |
+| 最爱颜色   | 橙色、黄色                                                   |
+
+## **作品**
+
+[自己写的导航网站]: http://wangyinjie.gitee.io/nav/
+[无印良品爱好者]: http://wangyinjie.gitee.io/muji/#/Overview
+
+
+
+## **抓到我**
+
+[我的gitee]: https://gitee.com/wangyinjie
+[我的github]: https://github.com/gaoge-jujingyi/
+[qq]: 2692138272
+[微信]: 15294729715
+
+------
+
+END
